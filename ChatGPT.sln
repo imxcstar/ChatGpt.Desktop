@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALLE2.API", "DALLE2.API\DALLE2.API.csproj", "{26D4E92E-67AB-4D7E-91BF-EDA72C2701A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +54,10 @@ Global
 		{6A05C4A0-AAE8-4437-B642-E598428C2EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A05C4A0-AAE8-4437-B642-E598428C2EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A05C4A0-AAE8-4437-B642-E598428C2EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D4E92E-67AB-4D7E-91BF-EDA72C2701A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D4E92E-67AB-4D7E-91BF-EDA72C2701A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D4E92E-67AB-4D7E-91BF-EDA72C2701A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D4E92E-67AB-4D7E-91BF-EDA72C2701A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{D4120DF8-9C53-4CFA-95A4-D9B441AF7266} = {23B46894-32D2-4685-9E97-49AD1FA479E9}
 		{CE6CBEC8-B678-482B-A3D7-DBFE191C7CF8} = {23B46894-32D2-4685-9E97-49AD1FA479E9}
 		{6A05C4A0-AAE8-4437-B642-E598428C2EC8} = {23B46894-32D2-4685-9E97-49AD1FA479E9}
+		{26D4E92E-67AB-4D7E-91BF-EDA72C2701A0} = {23B46894-32D2-4685-9E97-49AD1FA479E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E5C5F439-B8BC-4AC0-BD6F-A332969CEC97}
